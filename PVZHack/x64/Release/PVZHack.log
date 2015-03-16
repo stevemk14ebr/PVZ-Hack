@@ -1,0 +1,226 @@
+﻿  Main.cpp
+d:\visual studio 2013\projects\pvzhack\pvzhack\Tools.h(184): warning C4805: '==' : unsafe mix of type 'bool' and type 'int' in operation
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50002) : see previous definition of 'DXGI_STATUS_OCCLUDED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50011) : see previous definition of 'DXGI_STATUS_CLIPPED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50020) : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50029) : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50038) : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50047) : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50056) : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50071) : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50080) : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50089) : see previous definition of 'DXGI_ERROR_MORE_DATA'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50098) : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50107) : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50116) : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50126) : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50135) : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50145) : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50154) : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50164) : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50173) : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50182) : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50192) : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50201) : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50379) : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50388) : see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50398) : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50407) : see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50355) : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND' : macro redefinition
+          C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50364) : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+d:\visual studio 2013\projects\pvzhack\pvzhack\Classes.h(33): warning C4313: 'printf'  : '%X' in format string conflicts with argument 2 of type 'Vec4 *const '
+d:\visual studio 2013\projects\pvzhack\pvzhack\Classes.h(609): warning C4018: '<' : signed/unsigned mismatch
+d:\visual studio 2013\projects\pvzhack\pvzhack\DrawingClasses.h(69): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\DrawingClasses.h(80): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\DrawingClasses.h(81): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\DrawingClasses.h(90): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\DrawingClasses.h(91): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(144): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(145): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(172): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(173): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(190): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(191): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(218): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(219): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(230): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(250): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(308): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(309): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(310): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(313): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(314): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(315): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(318): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(319): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(322): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(323): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(326): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(327): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Helpers.h(393): warning C4244: 'initializing' : conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(37): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(41): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(118): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(175): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(176): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(238): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(239): warning C4244: '-=' : conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(240): warning C4244: 'argument' : conversion from 'LONG' to 'float', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(241): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(256): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2013\GUI\GUIFrameWork.h(257): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\StringCrypt.h(103): warning C4267: 'initializing' : conversion from 'size_t' to 'unsigned long', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\StringCrypt.h(104): warning C4018: '<' : signed/unsigned mismatch
+d:\visual studio 2013\projects\pvzhack\pvzhack\StringCrypt.h(108): warning C4018: '<' : signed/unsigned mismatch
+d:\visual studio 2013\projects\pvzhack\pvzhack\StringCrypt.h(116): warning C4267: 'initializing' : conversion from 'size_t' to 'unsigned long', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\StringCrypt.h(117): warning C4267: 'initializing' : conversion from 'size_t' to 'unsigned long', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(143): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(144): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(213): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(229): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(333): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(339): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+d:\visual studio 2013\projects\pvzhack\pvzhack\Core.h(340): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+Main.cpp(47): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\visual studio 2013\gui\Slider.h(69): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+          d:\visual studio 2013\gui\Slider.h(62) : while compiling class template member function 'void Slider<int>::Render(DrawingAbstractor *)'
+          Main.cpp(130) : see reference to class template instantiation 'Slider<int>' being compiled
+  Generating code
+d:\visual studio 2013\projects\pvzhack\pvzhack\vmthook64.h(67): warning C4715: 'CVMTHookManager64::dwGetMethodAddress' : not all control paths return a value
+d:\visual studio 2013\projects\pvzhack\pvzhack\helpers.h(304): warning C4715: 'Helpers::TransformAABB' : not all control paths return a value
+  Finished generating code
+  PVZHack.vcxproj -> D:\Visual Studio 2013\Projects\PVZHack\x64\Release\PVZHack.dll
+
+Project Performance Summary:
+     2684 ms  D:\Visual Studio 2013\Projects\PVZHack\PVZHack\PVZHack.vcxproj   1 calls
+               2684 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  MakeDirsForCl                              1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeLinkSwitches                        1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  Build                                      1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  WarnCompileDuplicatedFilename              1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  CopyFilesToOutputDirectory                 1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  ComputeLegacyManifestEmbedding             1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  SplitResourcesByCulture                    1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  PlatformPrepareForBuild                    1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+        0 ms  MakeDirsForLink                            1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  _PrepareForReferenceResolution             1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  FinalizeBuildStatus                        1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  GetCopyToOutputDirectoryItems              1 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        1 ms  PostBuildEvent                             1 calls
+        1 ms  ResolveProjectReferences                   1 calls
+        1 ms  AssignTargetPaths                          1 calls
+        1 ms  InitializeBuildStatus                      1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  DoLinkOutputFilesMatch                     1 calls
+        1 ms  ComputeCLOutputs                           1 calls
+        1 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        2 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        3 ms  PrepareForBuild                            1 calls
+        3 ms  SetCABuildNativeEnvironmentVariables       1 calls
+     1242 ms  Link                                       1 calls
+     1418 ms  ClCompile                                  1 calls
