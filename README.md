@@ -1,5 +1,5 @@
 # PVZ-Hack
-Personal MultiHack for Plants Vs. Zombies: Garden Warfare. Implement my MenuFrameWork project as an ingame menu.
+Personal MultiHack for Plants Vs. Zombies: Garden Warfare. Implements my MenuFrameWork project as an ingame hack menu.
 
 Compiled release thread: http://www.unknowncheats.me/forum/other-fps-games/119772-stevebot-pvz-garden-warfare-multihack.html
 
